@@ -6,6 +6,15 @@ separate document.
 
 Keeping the license, thank you very much [Victor](https://github.com/chesahkalu)!
 
+## Clone
+
+with
+
+<pre>
+git clone https://github.com/TomasKindahl/flask-API.git
+cd flask-API
+</pre>
+
 ## Running as a server on your host computer
 
 This is for Flask development purposes, if you only need to run
@@ -17,8 +26,6 @@ Flask in docker, jump to section
 If you use virtual environment you may use
 
 <pre>
-mkdir flask-API
-cd flask-API
 python3 -m venv .venv
 .venv\Scripts\activate
 </pre>
