@@ -17,6 +17,8 @@ cd flask-API
 
 ## Running as a server on your host computer
 
+Read more here [Flask](https://flask.palletsprojects.com/en/stable/)!
+
 This is for Flask development purposes, if you only need to run
 Flask in docker, jump to section
 [Running with docker](https://github.com/TomasKindahl/flask-API?tab=readme-ov-file#running-with-docker)!
