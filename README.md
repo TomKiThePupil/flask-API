@@ -58,3 +58,5 @@ docker build -t flaskapi:v<i style="background: yellow"><b>n</b></i> .
 <pre>
 docker run -d -p 5070:8001 flaskapi:v<i style="background: yellow"><b>n</b></i>
 </pre>
+
+Now lookup [localhost:5070](http://localhost:5070/)!
