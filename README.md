@@ -9,7 +9,8 @@ Keeping the license, thank you very much [Victor](https://github.com/chesahkalu)
 ## Running as a server on your host computer
 
 This is for Flask development purposes, if you only need to run
-Flask in docker, jump to section **Running with docker**!
+Flask in docker, jump to section
+[Running with docker](https://github.com/TomasKindahl/flask-API?tab=readme-ov-file#running-with-docker)!
 
 ### Dependencies with pip
 
