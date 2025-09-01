@@ -17,8 +17,8 @@ Flask in docker, jump to section
 If you use virtual environment you may use
 
 <pre>
-mkdir myproject
-cd myproject
+mkdir flask-API
+cd flask-API
 python3 -m venv .venv
 .venv\Scripts\activate
 </pre>
