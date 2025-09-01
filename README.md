@@ -44,9 +44,19 @@ sudo apt install python3-cors
 
 ### Running on host
 
+Presuming python3:
+
 <pre>
 python flaskapi.py
 </pre>
+
+or if python2 still is on your machine:
+
+<pre>
+python3 flaskapi.py
+</pre>
+
+Now lookup [localhost:8001](http://localhost:8001/)!
 
 ## Running with docker
 
